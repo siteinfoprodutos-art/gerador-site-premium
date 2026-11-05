@@ -1,0 +1,6 @@
+{
+  "name": "SITEIA — Construtor SaaS de Sites com Inteligência Artificial",
+  "description": "Plataforma profissional para criação, personalização, edição visual e publicação de sites e landing pages com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
